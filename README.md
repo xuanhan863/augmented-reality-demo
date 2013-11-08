@@ -2,7 +2,7 @@
 
 This little program will detect a 5×5 checkerboard pattern and projects an image into it.
 
-## Prequisits
+## Prerequisites
 
 * OpenCV for computer vision (`brew install opencv`)
 * Boost for multi-threading (`brew install boost`)
